@@ -11,10 +11,6 @@ node --experimental-strip-types decide.test.ts
 node --experimental-strip-types server.ts
 ```
 
-## How this was built
-
-Hassan Nawaz set the decision rule and the review bar. AI coding agents wrote the code under his direction. He reviews and decides what ships.
-
-Designed and directed by Hassan Nawaz. Built by AI coding agents working under his direction.
+Built by Hassan Nawaz.
 
 MIT licensed.
